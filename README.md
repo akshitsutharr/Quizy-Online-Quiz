@@ -6,21 +6,18 @@ Welcome to **Quizy**, an online quiz platform designed to make learning and test
 
 - **User Authentication**: Secure login and registration system.
 - **Quiz Creation**: Easily create quizzes with multiple-choice questions.
-- **Quiz Sharing**: Share quizzes with others via a unique link.
 - **Real-time Results**: Get instant feedback on quiz performance.
 - **Leaderboard**: See how you rank against other users.
 
-## Screenshots
 
-![Home Page](screenshots/home.png)
-![Quiz Page](screenshots/quiz.png)
 
 ## Getting Started
 
 ### Prerequisites
-
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
+    PHP 
+    HTML
+    CSS
+    JS
 
 ### Installation
 
